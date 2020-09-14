@@ -1,0 +1,3 @@
+[submodule "RadioListsLib"]
+	path = RadioListsLib
+	url = git@github.com:v4rd4453n/RadioListsLib.git
